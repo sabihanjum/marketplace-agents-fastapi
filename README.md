@@ -1,10 +1,10 @@
 # Marketplace Agents (FastAPI)
 
 An AI-powered FastAPI backend that provides:
-- 📉 Price Suggestion Agent
-- 🛡️ Moderation Agent
+- Price Suggestion Agent
+- 🛡Moderation Agent
 
-## 🚀 Setup
+## Setup
 
 1. Clone repo:
    ```bash
