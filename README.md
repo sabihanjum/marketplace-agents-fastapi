@@ -2,7 +2,7 @@
 
 An AI-powered FastAPI backend that provides:
 - Price Suggestion Agent
-- 🛡Moderation Agent
+- Moderation Agent
 
 ## Setup
 
